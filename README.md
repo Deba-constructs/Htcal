@@ -54,5 +54,4 @@ This project is open-source and free to use.
 
 ---
 
-Would you like me to package this README with your calculator file?
 
