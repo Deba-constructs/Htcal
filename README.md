@@ -1,5 +1,5 @@
 # Htcal
-Bootstrap Calculator
+Bootstrap and html calculator
 
 Overview
 
